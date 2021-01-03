@@ -1,0 +1,212 @@
+C:\Users\Usuario\Desktop\Simulacion SO\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+C:\Users\Usuario\Desktop\Simulacion SO\Simulacion SO\bin\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\Simulacion SO\Simulacion SO\bin\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\Simulacion SO\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Simulacion SO\Simulacion SO\obj\Debug\Simulacion_SO.FormProceso.resources
+C:\Users\Usuario\Desktop\Simulacion SO\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Simulacion SO\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Simulacion SO\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Simulacion SO\Simulacion SO\obj\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\Simulacion SO\Simulacion SO\obj\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\Simulacion SO\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Simulacion SO\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+C:\Users\Usuario\Desktop\6t0\Sem SO\Simulacion SO\Simulacion SO\bin\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\6t0\Sem SO\Simulacion SO\Simulacion SO\bin\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\6t0\Sem SO\Simulacion SO\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Simulacion SO\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Simulacion SO\Simulacion SO\obj\Debug\Simulacion_SO.FormProceso.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Simulacion SO\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Simulacion SO\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Simulacion SO\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Simulacion SO\Simulacion SO\obj\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\6t0\Sem SO\Simulacion SO\Simulacion SO\obj\Debug\Simulacion SO.pdb
+E:\Sem SO\Practica 2\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+E:\Sem SO\Practica 2\Simulacion SO\bin\Debug\Simulacion SO.exe
+E:\Sem SO\Practica 2\Simulacion SO\bin\Debug\Simulacion SO.pdb
+E:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+E:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+E:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.FormPausa.resources
+E:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+E:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.FormProceso.resources
+E:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+E:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+E:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+E:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.exe
+E:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.pdb
+D:\Sem SO\Practica 2\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+D:\Sem SO\Practica 2\Simulacion SO\bin\Debug\Simulacion SO.exe
+D:\Sem SO\Practica 2\Simulacion SO\bin\Debug\Simulacion SO.pdb
+D:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+D:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+D:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.FormProceso.resources
+D:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+D:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.Cache
+D:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+D:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.exe
+D:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 2\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 2\Simulacion SO\bin\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 2\Simulacion SO\bin\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.FormProceso.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.pdb
+D:\Sem SO\Practica 2\Simulacion SO\obj\Debug\Simulacion SO.csprojResolveAssemblyReference.cache
+D:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+D:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+D:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+D:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.Cache
+D:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+D:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion SO.exe
+D:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion SO.pdb
+D:\Sem SO\Practica 3\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+D:\Sem SO\Practica 3\Simulacion SO\bin\Debug\Simulacion SO.exe
+D:\Sem SO\Practica 3\Simulacion SO\bin\Debug\Simulacion SO.pdb
+E:\Sem SO\Practica 3\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+E:\Sem SO\Practica 3\Simulacion SO\bin\Debug\Simulacion SO.exe
+E:\Sem SO\Practica 3\Simulacion SO\bin\Debug\Simulacion SO.pdb
+E:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+E:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+E:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+E:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+E:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+E:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+E:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion SO.exe
+E:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion SO.pdb
+D:\Sem SO\Practica 3\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 4\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 4\Simulacion SO\bin\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 4\Simulacion SO\bin\Debug\Simulacion SO.pdb
+D:\Sem SO\Practica 4\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+D:\Sem SO\Practica 4\Simulacion SO\bin\Debug\Simulacion SO.exe
+D:\Sem SO\Practica 4\Simulacion SO\bin\Debug\Simulacion SO.pdb
+D:\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+D:\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+D:\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion_SO.FormTablaProcesos.resources
+D:\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+D:\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.Cache
+D:\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+D:\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.exe
+D:\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\Practica 4\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+C:\Users\Usuario\Desktop\Practica 4\Simulacion SO\bin\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\Practica 4\Simulacion SO\bin\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica 4\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+C:\Users\Usuario\Desktop\Practica 4\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+C:\Users\Usuario\Desktop\Practica 4\Simulacion SO\obj\Debug\Simulacion_SO.FormTablaProcesos.resources
+C:\Users\Usuario\Desktop\Practica 4\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\Practica 4\Simulacion SO\obj\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 4\Simulacion SO\obj\Debug\Simulacion_SO.FormTablaProcesos.resources
+C:\Users\Usuario\Desktop\Practica 5\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+C:\Users\Usuario\Desktop\Practica 5\Simulacion SO\bin\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\Practica 5\Simulacion SO\bin\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\Practica 5\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica 5\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+C:\Users\Usuario\Desktop\Practica 5\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+C:\Users\Usuario\Desktop\Practica 5\Simulacion SO\obj\Debug\Simulacion_SO.FormTablaProcesos.resources
+C:\Users\Usuario\Desktop\Practica 5\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Practica 5\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Practica 5\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica 5\Simulacion SO\obj\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\Practica 5\Simulacion SO\obj\Debug\Simulacion SO.pdb
+D:\Sem SO\Practica 5\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+D:\Sem SO\Practica 5\Simulacion SO\bin\Debug\Simulacion SO.exe
+D:\Sem SO\Practica 5\Simulacion SO\bin\Debug\Simulacion SO.pdb
+D:\Sem SO\Practica 5\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+D:\Sem SO\Practica 5\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+D:\Sem SO\Practica 5\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+D:\Sem SO\Practica 5\Simulacion SO\obj\Debug\Simulacion_SO.FormTablaProcesos.resources
+D:\Sem SO\Practica 5\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+D:\Sem SO\Practica 5\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+D:\Sem SO\Practica 5\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+D:\Sem SO\Practica 5\Simulacion SO\obj\Debug\Simulacion SO.exe
+D:\Sem SO\Practica 5\Simulacion SO\obj\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\Practica 7\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+C:\Users\Usuario\Desktop\Practica 7\Simulacion SO\bin\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\Practica 7\Simulacion SO\bin\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\Practica 7\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica 7\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+C:\Users\Usuario\Desktop\Practica 7\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+C:\Users\Usuario\Desktop\Practica 7\Simulacion SO\obj\Debug\Simulacion_SO.FormTablaProcesos.resources
+C:\Users\Usuario\Desktop\Practica 7\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Practica 7\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Practica 7\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica 7\Simulacion SO\obj\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\Practica 7\Simulacion SO\obj\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\Practica 8\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+C:\Users\Usuario\Desktop\Practica 8\Simulacion SO\bin\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\Practica 8\Simulacion SO\bin\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica 8\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+C:\Users\Usuario\Desktop\Practica 8\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+C:\Users\Usuario\Desktop\Practica 8\Simulacion SO\obj\Debug\Simulacion_SO.FormTablaProcesos.resources
+C:\Users\Usuario\Desktop\Practica 8\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.pdb
+D:\Sem SO\Practica 8\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+D:\Sem SO\Practica 8\Simulacion SO\bin\Debug\Simulacion SO.exe
+D:\Sem SO\Practica 8\Simulacion SO\bin\Debug\Simulacion SO.pdb
+D:\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+D:\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+D:\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion_SO.FormTablaProcesos.resources
+D:\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+D:\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.Cache
+D:\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+D:\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.exe
+D:\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 8\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 8\Simulacion SO\bin\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 8\Simulacion SO\bin\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion_SO.FormTablaProcesos.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.pdb
+D:\Sem SO\Practica 8\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica 9\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+C:\Users\Usuario\Desktop\Practica 9\Simulacion SO\bin\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\Practica 9\Simulacion SO\bin\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\Practica 9\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica 9\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+C:\Users\Usuario\Desktop\Practica 9\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+C:\Users\Usuario\Desktop\Practica 9\Simulacion SO\obj\Debug\Simulacion_SO.FormTablaProcesos.resources
+C:\Users\Usuario\Desktop\Practica 9\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Practica 9\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Practica 9\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica 9\Simulacion SO\obj\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\Practica 9\Simulacion SO\obj\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 9\Simulacion SO\bin\Debug\Simulacion SO.exe.config
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 9\Simulacion SO\bin\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 9\Simulacion SO\bin\Debug\Simulacion SO.pdb
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 9\Simulacion SO\obj\Debug\Simulacion SO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 9\Simulacion SO\obj\Debug\Simulacion_SO.FormInicio.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 9\Simulacion SO\obj\Debug\Simulacion_SO.FormProcesamientoDeLotes.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 9\Simulacion SO\obj\Debug\Simulacion_SO.FormTablaProcesos.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 9\Simulacion SO\obj\Debug\Simulacion_SO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 9\Simulacion SO\obj\Debug\Simulacion SO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 9\Simulacion SO\obj\Debug\Simulacion SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 9\Simulacion SO\obj\Debug\Simulacion SO.exe
+C:\Users\Usuario\Desktop\6t0\Sem SO\Practica 9\Simulacion SO\obj\Debug\Simulacion SO.pdb
